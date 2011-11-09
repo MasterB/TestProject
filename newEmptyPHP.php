@@ -6,4 +6,5 @@ echo 'Neue Ausgabe';
 echo 'Eien Zweite Ausgabe';
 echo 'master ...';
 echo '09.11.2011/bz';
+echo 'ga liggu';
 

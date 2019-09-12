@@ -38,6 +38,11 @@
   <component name="GitLogSettings">
     <option name="myStructureFilterPaths" />
   </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="MasterB" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="TestProject" />
+  </component>
   <component name="ProjectId" id="1QiunLnZFqB07gXvzecHbWHLK0Y" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
@@ -73,6 +78,14 @@
       <updated>1320875961085</updated>
       <workItem from="1568265905519" duration="59000" />
     </task>
+    <task id="LOCAL-00001" summary="NochmaligerPullRequest">
+      <created>1568267106486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568267106486</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers>
       <GitHub>
         <option name="repoAuthor" value="MasterB" />
@@ -99,6 +112,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <MESSAGE value="so so" />
     <MESSAGE value="Jetz aber" />
@@ -109,7 +124,8 @@
     <MESSAGE value="Heute So." />
     <MESSAGE value="Heute So. loeschungen" />
     <MESSAGE value="Heute So. clean" />
-    <option name="LAST_COMMIT_MESSAGE" value="Heute So. clean" />
+    <MESSAGE value="NochmaligerPullRequest" />
+    <option name="LAST_COMMIT_MESSAGE" value="NochmaligerPullRequest" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
 </project>
